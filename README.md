@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://andrierlison.github.io/word-counter/">🔗Word Counter</a>
+    <a href="https://andrierlison.github.io/counter-of-words/">🔗Counter Of Words</a>
 </h1>
 
 <p align="center">DESCRIPTIOON</p>
@@ -32,11 +32,11 @@
 <h1>Clone this repository</h1>
 
 ```
-$ git clone https://github.com/Andrierlison/word-counter
+$ git clone https://github.com/Andrierlison/counter-of-words
 
 # Access the project folder in the / cmd terminal
 
-$ cd word-counter
+$ cd counter-of-words
 ```
 
 <h1 id="author">Author</h1>
