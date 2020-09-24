@@ -22,6 +22,8 @@
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
+<h1 id="technologies"><a href="https://github.com/Andrierlison/counter-of-words/blob/master/LICENSE" target="_blank">LICENSE</h1>
+
 <h1>Copy</h1>
 <p>You can feel free to copy the page</p>
 
