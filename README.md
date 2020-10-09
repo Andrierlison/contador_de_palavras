@@ -13,7 +13,7 @@
 <h2 align="center">Under development</h2>
 
 <p align="center">
-    <img alt="Banner" title="Banner" src="images/banner.jpg" />
+    <img alt="Banner" title="Banner" src="images/banner.png" width="500"/>
 </p>
 
 <h1 id="technologies">The following tools were used in the construction of the project:</h1>
