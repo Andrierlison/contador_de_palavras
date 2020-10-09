@@ -2,15 +2,16 @@
     <a href="https://andrierlison.github.io/counter-of-words/">🔗Counter Of Words</a>
 </h1>
 
-<p align="center">DESCRIPTIOON</p>
+<h2 align="center">A simple word and character counter</h2>
 
 <p align="center">
     <a href="#technologies">Technologies</a> •
-    <a href="#license">License</a> •
+    <a href="https://github.com/Andrierlison/counter-of-words/blob/master/LICENSE" 
+       target="_blank">License</a> •
     <a href="#author">Author</a>
 </p>
 
-<h2 align="center">Under development</h2>
+<h3 align="center">Complete project but open to new features</h3>
 
 <p align="center">
     <img alt="Banner" title="Banner" src="images/banner.png" width="500"/>
@@ -21,14 +22,13 @@
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
-
-<h1 id="technologies"><a href="https://github.com/Andrierlison/counter-of-words/blob/master/LICENSE" target="_blank">LICENSE</h1>
+- [Git](https://git-scm.com/)
 
 <h1>Copy</h1>
 <p>You can feel free to copy the page</p>
 
-<p>Before you begin, you will need to have the following tools installed on your machine</p>
-<a href="https://git-scm.com">Git</a>
+<p>But first you need to install <a href="https://git-scm.com">Git</a> on your machine</p>
+
 <p>In addition, it is good to have an editor to work with the code as <a href="https://code.visualstudio.com/">VSCode</a></p>
 
 <h1>Clone this repository</h1>
