@@ -1,21 +1,17 @@
-<h1 align="center">
+<h1>
     <a href="https://andrierlison.github.io/counter-of-words/">🔗Counter Of Words</a>
 </h1>
 
-<h2 align="center">A simple word and character counter</h2>
+<h2>A simple word and character counter</h2>
 
-<p align="center">
+<p>
     <a href="#technologies">Technologies</a> •
     <a href="https://github.com/Andrierlison/counter-of-words/blob/master/LICENSE" 
        target="_blank">License</a> •
     <a href="#author">Author</a>
 </p>
 
-<h3 align="center">Complete project but open to new features</h3>
-
-<p align="center">
-    <img alt="Banner" title="Banner" src="images/banner.png" width="500"/>
-</p>
+<h3>Complete project but open to new features</h3>
 
 <h1 id="technologies">The following tools were used in the construction of the project:</h1>
 
