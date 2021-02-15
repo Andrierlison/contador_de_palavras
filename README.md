@@ -1,5 +1,5 @@
 <h1>
-    <a href="https://andrierlison.github.io/counter-of-words/">🔗Counter Of Words</a>
+    <a href="https://andrierlison.github.io/counter-of-words/">Counter Of Words</a>
 </h1>
 
 <h2>A simple word and character counter</h2>
